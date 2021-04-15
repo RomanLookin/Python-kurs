@@ -1,0 +1,5 @@
+firm_1 ООО 10000 5000
+firm_2 AO 3000 2000
+firm_3 FGUP 1000 500
+firm_4 IP 1000 3000
+[{"firm_1": 5000, "firm_2": 1000, "firm_3": 500, "firm_4": -2000}, {"average_profit": 1125.0}]
